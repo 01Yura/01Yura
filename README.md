@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hello, I am Yura</h1>
+<h2 align="center">I don’t fix bugs. I eliminate those who created them.)</h2>
 <p align="center">Senior QA Engineer • Java • REST Assured • Selenide</p>
 
 ---
