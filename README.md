@@ -1,9 +1,9 @@
-<h1 align="center">👋 Привет, я Юра</h1>
+<h1 align="center">👋 Hello, I am Yura</h1>
 <p align="center">Senior QA Engineer • Java • REST Assured • Selenide</p>
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 📫 Контакты
+## 📫 Contacts
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yura-primyshev" target="_blank">
