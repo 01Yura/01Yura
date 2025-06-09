@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hello, I am Yura</h1>
-<h2 align="center">I don’t fix bugs. I eliminate those who created them.)</h2>
 <p align="center">Senior QA Engineer • Java • REST Assured • Selenide</p>
 
 ---
@@ -34,3 +33,5 @@
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
+
+<h2 align="center">I don’t fix bugs. I eliminate those who created them.)</h2>
