@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/твоя-ссылка" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/penolegrus" target="_blank">
+  <a href="https://github.com/01Yura" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://t.me/твоя_ссылка" target="_blank">
