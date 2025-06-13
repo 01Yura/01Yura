@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I am Yura</h1>
-<p align="center">Senior QA Engineer • Java • REST Assured • Selenide</p>
+<h4 align="center">Senior QA Engineer • Java • REST Assured • Selenide</h4>
 
 ---
 
