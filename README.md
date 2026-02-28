@@ -3,23 +3,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- GitHub Readme Stats -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=01Yura&show_icons=true&theme=tokyonight" width="48%"/> -->
-
-<!-- Top Languages -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Yura&layout=compact&theme=tokyonight" width="41%"/> -->
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=01Yura&theme=tokyonight&hide_border=true" width="90%"/>
-
-</div>
-
----
-
 ## 📫 Contacts
 
 <p align="center">
